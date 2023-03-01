@@ -9,6 +9,6 @@ Implement of CRNN-CTC
 3. bash train.sh(run it!)
 
 # Run Demo
-The trained model parameters in expr/.
-Choose a model in expr/ to run.
-demo.py will run with the model choosed and picture in data.
+- The trained model parameters in expr/. 
+- Choose a model in expr/ to run. 
+- demo.py will run with the model choosed and picture in data. 
